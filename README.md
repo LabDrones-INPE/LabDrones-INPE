@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - Erick Teixeira Rodrigues
 - Marcos Lima Rodrigues
 - Maria Isabel Sobral Escada
-- Renan de Freitas Bezerra Marujo
+- Rennan de Freitas Bezerra Marujo
 - Sérgio Rosim
 - Sidnei João Siqueira Sant'Anna
-- Adeline Maciel
